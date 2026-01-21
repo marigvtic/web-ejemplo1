@@ -1,0 +1,63 @@
+Clase 16/01/2026
+---En el cuaderno--
+Desarrollo web Conceptos:
+1. Servidor
+Computadora con características especiales
+que almacena los sitios web. Estan conectados
+a la red y responden solicitudes de 
+los clientes (envian a los usuarios la 
+información que solicitan)
+
+2. IP - ejemplo: 172.217.19.164
+Número que identifica un dispositivo 
+conectado a una red. Protocolo de Internet
+
+3. Dominio
+Es el nombre personalizado de un sitio web
+que es fácil de recordar. "Google" "YouTube"
+    Extensión: .com (comercial) 
+               .edu (educación) 
+               .org (organización)
+4. URL
+Es la dirección completa que indica la ubicación
+exacta de un recurso en internet
+https://www.misitio.com/contacto.html
+> Va a solicitar al servidor ubique la
+IP de "misitio", acceda al sitio
+y muestre la página contacto la cual es html
+
+5. Hipervinculo
+Enlace que permite navegar entre las páginas
+web o sitios web.
+
+6. Sitio web
+Conjunto de páginas web. Son los archivos que 
+se descargan y se muestran en el navegador.
+
+7. Página web
+Archivo digital Individual de un sitio web.
+Contiene información de un determinado tema.
+8. Qué se requiere para publicar un sitio
+      - Dominio 
+      - Alojamiento(web hosting)
+ Ejemplo: Hostinger plataforma para alojar
+tu sitio web. 
+9. HTML
+Lenguaje de etiquetas que permite
+realizar una página web
+10. Etiqueta HTML
+Son elementos que definen la estructura 
+de la pág se escriben entre < >
+11. CSS
+Lenguaje que se utiliza para dar estilo 
+y diseño a la página
+---- Etiquetas HTML ----
+<html> </html>
+<p id="cont1"> contenido... </p>
+con id estamos nombrando a ese parrafo
+En css:
+#cont1{
+
+}
+
+
